@@ -1,0 +1,13 @@
+{
+  "shell_port": 35377,
+  "iopub_port": 54545,
+  "stdin_port": 50647,
+  "control_port": 37089,
+  "hb_port": 39241,
+  "ip": "127.0.0.1",
+  "key": "f50bfacf-cff4f1f0a90f07d2fc52b89f",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Time/05-Time-Series-Analysis-with-Statsmodels/03-Holt-Winters-Methods.ipynb"
+}

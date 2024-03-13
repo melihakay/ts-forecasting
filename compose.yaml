@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jupyter:
+    image: quay.io/jupyter/pytorch-notebook
+    container_name: jupyter_container
+    network_mode: host
+    volumes:
+      - /home/melih/forecasting_ws/development:/home/jovyan/work/development/

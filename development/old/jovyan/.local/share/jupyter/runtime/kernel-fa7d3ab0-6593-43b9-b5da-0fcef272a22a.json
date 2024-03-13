@@ -1,0 +1,13 @@
+{
+  "shell_port": 46465,
+  "iopub_port": 57955,
+  "stdin_port": 37211,
+  "control_port": 59459,
+  "hb_port": 39151,
+  "ip": "127.0.0.1",
+  "key": "f92553d4-c2d73a2aef5103370c9ec8e8",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Time/06-General-Forecasting-Models/01-ACF-and-PACF.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 7,
+  "port": 8889,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "15dbca4c55a81906fdca8b6077fcf031aa300266e8bbd669",
+  "url": "http://amd-desktop:8889/",
+  "version": "2.12.5"
+}

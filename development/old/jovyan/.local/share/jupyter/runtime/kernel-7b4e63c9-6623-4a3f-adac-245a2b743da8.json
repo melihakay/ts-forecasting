@@ -1,0 +1,13 @@
+{
+  "shell_port": 59595,
+  "iopub_port": 52037,
+  "stdin_port": 48233,
+  "control_port": 57303,
+  "hb_port": 53277,
+  "ip": "127.0.0.1",
+  "key": "ea0ed707-12e45d10d410cffe60da47bd",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/Time/06-General-Forecasting-Models/03-Descriptive-Statistics-and-Tests.ipynb"
+}
